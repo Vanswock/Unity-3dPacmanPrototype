@@ -4,7 +4,7 @@ A 3d concept for pacman was made in Unity as part of my journey of recreating cl
 
 ## Play Online
 
-Play here: [https://3dpacman-mu.vercel.app/](https://3dpacman-mu.vercel.app/)
+Play here: https://3dpacman-kappa.vercel.app/
 
 
 ## Features
